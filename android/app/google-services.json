@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061472551918",
+    "project_id": "points-bacc9",
+    "storage_bucket": "points-bacc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061472551918:android:63cd535816aae90a3b44ff",
+        "android_client_info": {
+          "package_name": "com.example.points"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXKZsCRLFVs2AtbktLvVYOszaEVJLZpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061472551918:android:231aef90aa3639513b44ff",
+        "android_client_info": {
+          "package_name": "com.poins.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXKZsCRLFVs2AtbktLvVYOszaEVJLZpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
